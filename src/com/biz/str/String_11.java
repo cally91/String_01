@@ -21,6 +21,7 @@ public class String_11 {
 		
 		//12번째 문자열을 추출하여 문자로 변환 시켜라
 		char c = strNation.charAt(12);
+		System.out.println(c);
 
 	}
 
